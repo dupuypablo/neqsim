@@ -15,7 +15,7 @@ import neqsim.thermo.system.SystemInterface;
 import neqsim.thermo.system.SystemSrkEos;
 
 /**
- * Test class for GasScrubber equipment.
+ * Test class for GasScrubber equipment. 
  * 
  * Tests basic functionality and integration of the GasScrubber separator class.
  */
